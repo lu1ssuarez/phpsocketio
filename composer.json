@@ -1,0 +1,13 @@
+{
+    "name": "kingbox/kb-print-io",
+    "description": "KingBOX Print Server",
+    "authors": [
+        {
+            "name": "Luis Enrique Suarez",
+            "email": "luissuarezdev@gmail.com"
+        }
+    ],
+    "require": {
+        "workerman/phpsocket.io": "^1.1"
+    }
+}
