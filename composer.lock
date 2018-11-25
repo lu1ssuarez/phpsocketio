@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "21c9437b1a65295c0d8d075efe7d0221",
+    "content-hash": "fd33d3145c527bf484ee4867b3763a0e",
     "packages": [
         {
             "name": "workerman/channel",
@@ -124,7 +124,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "~7.1.0"
+        "php": "7.1.20"
     },
     "platform-dev": []
 }

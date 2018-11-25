@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "php": "~5.6.0",
+        "php": "7.1.20",
         "workerman/phpsocket.io": "v1.1.9",
         "workerman/channel": "v1.0.4",
         "workerman/workerman": "v3.5.11"
