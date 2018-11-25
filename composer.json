@@ -8,7 +8,7 @@
         }
     ],
     "require": {
-        "php": "^7.1",
+        "php": "~7.1.0",
         "workerman/phpsocket.io": "^1.1"
     }
 }
